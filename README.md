@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/820930672.svg)](https://zenodo.org/doi/10.5281/zenodo.12589623)
 # InheriTree: Streamlining Intestate Inheritance Allocation under Thai Civil Law by Leveraging NLP-Powered Chatbot and Web Application
 
 This repository contains the data and resources described in the **Data Availability** section of the paper titled **"InheriTree: Streamlining Intestate Inheritance Allocation under Thai Civil Law by Leveraging NLP-Powered Chatbot and Web Application."** These resources are made publicly available to facilitate further research and development in the field as well as to promote transparency in reported results.
